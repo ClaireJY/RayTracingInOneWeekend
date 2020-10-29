@@ -16,6 +16,7 @@
 #include <iostream>
 
 
+
 class vec3  {
     public:
         vec3() {}

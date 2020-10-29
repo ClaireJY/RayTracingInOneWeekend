@@ -14,6 +14,7 @@
 #include "ray.h"
 #include "hitable.h"
 #include "random.h"
+#include "vec3.h"
 
 struct hit_record;
 
